@@ -5,6 +5,7 @@ vf= 2.3 #float (no tiene double)
 vc= 'a' #str
 vs= 'aaa' #str
 vb= True #bool
+#dkfjjdfvh
 
 #no necesita espacio, la ',' hace del '+' en java.
 print('vi:', vi) #con la , solo puedes concatenar cualq. tipo de dato.
